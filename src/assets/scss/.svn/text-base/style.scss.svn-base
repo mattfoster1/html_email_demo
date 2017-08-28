@@ -1,0 +1,127 @@
+#outlook a {padding:0;}
+body{ width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; }
+.ExternalClass {width:100%;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+#backgroundTable {margin:0 auto; padding:0; width:100% !important; line-height: 100% !important; max-width:600px;}
+img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}
+a img {border:none;}
+.image_fix {display:block;}
+p {margin: 19px 0;}
+// h1, h2, h3, h4, h5, h6 {color: black !important;}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color: blue !important;}
+h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {
+    color: red !important;
+ }
+
+h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
+    color: purple !important;
+}
+table td {border-collapse: collapse;}
+table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+
+.blue_header_text { font-size:8px; color:#00a4a4 ;}
+
+.black_header_text { font-size:10px; color:#000; text-align:right;}
+
+table, li {
+	font-family: arial;
+}
+
+
+a {
+	 color: #20ac9f;
+}
+
+h1 {
+	color: #20ac9f;
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
+	line-height: 24px;
+	}
+
+h2 {
+	color: #96c144;
+	font-size: 16px;
+	padding: 0;
+	margin: 0;
+}
+
+sup {
+	line-height: 0;
+	font-size: 0.7em;
+}
+
+.green_bullets {
+	li {
+		color: #96c144;
+		padding-top: 20px;
+	}
+	padding-left: 17px;
+}
+
+ul {
+	padding-left: 11px;
+	margin: 0;
+}
+
+.body_text {
+	font-size: 16px;
+	color: #000;
+	line-height: 19px;
+}
+
+.bullet_copy {
+	color: #000;
+}
+
+.bullet_copy_gray {
+	color: #868687;
+}
+
+.prescr_info {
+	font-size: 9px;
+	color: #868687;
+	line-height: 11px;
+}
+
+.legal_info {
+	font-size: 10px;
+	color: #868687;
+	line-height: 12px;
+	font-weight: bold;
+	a {
+		color: #868687;
+	}
+}
+
+.legal_info.unsubscribe {
+	font-weight: normal;
+}
+
+.legal_info.enhanced_safety {
+	font-size: 11px;
+	font-weight: normal;
+	line-height: 13.5px;
+}
+
+.justif_text {
+	text-align: justify;
+}
+
+.cent_text {
+	text-align: center;
+}
+
+.bold_text {
+	font-weight: bold;
+}
+
+.itall_text {
+	font-style: italic;
+}
+
+.box_td {
+	color: #868687;
+	border: 1px solid #67686c;
+}
